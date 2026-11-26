@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eelprofesor14.github.io/swiftkit-microtools/sitemap.xml
